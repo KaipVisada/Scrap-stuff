@@ -276,3 +276,5 @@ main {
     height: auto;
   }
 }
+/* vaizdas neprisitaiko sumazinus ekrana iki puses. Po desiniu meniu baru pasleptas krasto neuzpildymas :D 
+Nesuprantu kur deti vh %, kurie yra labiau interactive ir responsive. Kuriose vietose nenutina nurodyti PVZ.: hight... */
